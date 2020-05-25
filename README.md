@@ -8,4 +8,4 @@
 
 ## 部署
 
-详情看 [https://21yunbox.com/docs/#/deploy-gatsby](https://21yunbox.com/docs/#/deploy-gatsby)
+详情看 [https://21yunbox.com/docs/v2/deploy-gatsby](https://21yunbox.com/docs/v2/deploy-gatsby)
